@@ -3,11 +3,11 @@ F1 race drivers average report generate service
 
 # Input and Output file path setup
 
-Go to /src/main/resources folder and change the input/output and log file path in the applicaion environment properties.
+  Go to /src/main/resources folder and change the input/output and log file path in the applicaion environment properties.
 
-Copy & paste the file "drivers-data.csv" in the input folder location
+  Copy & paste the file "/input/drivers-data.csv" in the input folder location
 
-Steps to build and execute the batch application
+  Steps to build and execute the batch application
 
 # STEP #1: set classpath for windows using following command
 
